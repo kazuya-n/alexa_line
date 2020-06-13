@@ -1,4 +1,5 @@
 # alexa_line
+* Alexaで聞き取った文章を家族のLINEグループに送れるアプリ
 
 ## Deploying
 ```
